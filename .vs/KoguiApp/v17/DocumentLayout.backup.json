@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\models\\coritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:models\\coritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\services\\colorapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:services\\colorapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\services\\colorname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:services\\colorname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\models\\chavecor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:models\\chavecor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|c:\\users\\netuno\\downloads\\kogui\\koguiapp\\models\\chavecorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5D60D7-E0C1-4558-81C7-3FDC09B95E13}|KoguiApp.csproj|solutionrelative:models\\chavecorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.md",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\ReadMe.md",
+              "RelativeDocumentMoniker": "ReadMe.md",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\ReadMe.md",
+              "RelativeToolTip": "ReadMe.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-03T22:57:36.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-03T22:00:51.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:45:19.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-03T21:16:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-03T21:15:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Services\\ColorService.cs",
+              "RelativeDocumentMoniker": "Services\\ColorService.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Services\\ColorService.cs",
+              "RelativeToolTip": "Services\\ColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:12:43.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:15:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:13:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColorName.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Services\\ColorName.cs",
+              "RelativeDocumentMoniker": "Services\\ColorName.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Services\\ColorName.cs",
+              "RelativeToolTip": "Services\\ColorName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:20:05.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColorApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Services\\ColorApiResponse.cs",
+              "RelativeDocumentMoniker": "Services\\ColorApiResponse.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Services\\ColorApiResponse.cs",
+              "RelativeToolTip": "Services\\ColorApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:20:49.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CorItem.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Models\\CorItem.cs",
+              "RelativeDocumentMoniker": "Models\\CorItem.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Models\\CorItem.cs",
+              "RelativeToolTip": "Models\\CorItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:22:53.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChaveCorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Models\\ChaveCorRepository.cs",
+              "RelativeDocumentMoniker": "Models\\ChaveCorRepository.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Models\\ChaveCorRepository.cs",
+              "RelativeToolTip": "Models\\ChaveCorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:12:21.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChaveCor.cs",
+              "DocumentMoniker": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Models\\ChaveCor.cs",
+              "RelativeDocumentMoniker": "Models\\ChaveCor.cs",
+              "ToolTip": "C:\\Users\\netuno\\Downloads\\Kogui\\KoguiApp\\Models\\ChaveCor.cs",
+              "RelativeToolTip": "Models\\ChaveCor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:12:09.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
